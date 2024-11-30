@@ -10,6 +10,9 @@
 
   <ItemGroup>
     <PackageReference Include="snappier" Version="1.1.0" />
+    <PackageReference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="4.1.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis" Version="1.0.0" />
+
   </ItemGroup>
 
 </Project>
